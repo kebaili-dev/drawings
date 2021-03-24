@@ -28,4 +28,4 @@ Il faudra pouvoir créer des rectangles, triangles, ellipses.
 ## La suite
 
 * Créer des formes depuis un formulaire
-* Sauvegarder les différentes formes dans des fichiers
+* Sauvegarder les différentes formes 
